@@ -8,6 +8,7 @@ functional backbone/outline of the program
 optimization works in theory
 - however due to the lack of optimization yet, it is practically non feasible
 
+the file "optimization_with_drift" contains an attempt at stabilizing the qubit when faced with hardware drift, while "optimization_without_drift" does the same without drift s.t. we can compare and contrast the results. Due to time constraints, we were not able to let the optimization run and evaluate its results. 
 
 ## ideas for improvements we tried:
 
